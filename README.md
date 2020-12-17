@@ -10,11 +10,11 @@ TensorFlow requires Python3.7 or earlier, so ensure that you are currently using
 
 If not, create a virtual environment by specifying an older version:
 
-    python -m venv -p python3.7 venv
+    python3.7 -m venv venv37
 
 Navigate to the root directory and activate the virtual environment:
 
-    source venv/bin/activate
+    source venv37/bin/activate
 
 # Install Dependencies
 
